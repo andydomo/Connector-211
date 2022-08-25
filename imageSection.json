@@ -1,0 +1,15 @@
+{
+  "images": [
+    "iconWithBackground",
+    "logoWithoutBackground",
+    "logoWithBackground",
+    "iconWithoutBackground"
+  ],
+  "authorName": "d3",
+  "validImages": [
+    "logoWithBackground",
+    "iconWithBackground",
+    "iconWithoutBackground",
+    "logoWithoutBackground"
+  ]
+}

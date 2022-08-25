@@ -1,0 +1,2366 @@
+{
+  "name": "conn-21",
+  "connectorType": "datagrid",
+  "userId": null,
+  "domoClientId": null,
+  "domoClientSecret": null,
+  "additionalInfo": null,
+  "reportLength": 1,
+  "days": 7,
+  "reports": [
+    "zsdsd"
+  ],
+  "advancedReports": null,
+  "guid": "f5a74c53-0f7f-4d68-9202-9759043e8cb7",
+  "publishPrivate": true,
+  "visibilityType": {
+    "label": "Private to your company",
+    "value": "private"
+  },
+  "parameters": [],
+  "commands": null,
+  "showAdvanced": true,
+  "submittedVersion": 8,
+  "submittedMajorVersion": 0,
+  "publishedVersion": 0,
+  "workbenchEnabled": false,
+  "dataProviderCreated": false,
+  "description": null,
+  "tags": null,
+  "successResponseDefinition": null,
+  "errorResponseDefinition": null,
+  "updateCode": false,
+  "requestingCustomerId": null,
+  "ownerId": null,
+  "ownerCustomerId": null,
+  "parentGuid": null,
+  "testingProfiles": [
+    {
+      "name": "tp1",
+      "value": [
+        {
+          "name": "abc",
+          "type": "discovery",
+          "required": false,
+          "order": -1,
+          "options": [],
+          "command": {
+            "name": "abc",
+            "code": null,
+            "type": "dropdown"
+          },
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "abc",
+          "type": "string",
+          "required": false,
+          "order": 0,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "demo",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "ki",
+          "type": "integer",
+          "required": false,
+          "order": 1,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "rt",
+          "type": "text",
+          "required": false,
+          "order": 2,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "sd",
+          "type": "dropdown",
+          "required": false,
+          "order": 3,
+          "options": [
+            {
+              "name": "a1",
+              "value": "a1"
+            },
+            {
+              "name": "a2",
+              "value": "a2"
+            },
+            {
+              "name": "a3",
+              "value": null
+            },
+            {
+              "name": "",
+              "value": null
+            }
+          ],
+          "command": null,
+          "helpText": "kjy",
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        }
+      ]
+    },
+    {
+      "name": "kite1test",
+      "value": [
+        {
+          "name": "abc",
+          "type": "discovery",
+          "required": false,
+          "order": -1,
+          "options": [],
+          "command": {
+            "name": "abc",
+            "code": null,
+            "type": "dropdown"
+          },
+          "helpText": null,
+          "showWhen": "",
+          "value": "kite",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "abc",
+          "type": "string",
+          "required": false,
+          "order": 0,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "kite",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "ki",
+          "type": "integer",
+          "required": false,
+          "order": 1,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "34",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "rt",
+          "type": "text",
+          "required": false,
+          "order": 2,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "gdvgfvb f",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "sd",
+          "type": "dropdown",
+          "required": false,
+          "order": 3,
+          "options": [
+            {
+              "name": "a1",
+              "value": "a1"
+            },
+            {
+              "name": "a2",
+              "value": "a2"
+            },
+            {
+              "name": "a3",
+              "value": null
+            },
+            {
+              "name": "",
+              "value": null
+            }
+          ],
+          "command": null,
+          "helpText": "kjy",
+          "showWhen": "",
+          "value": "a2",
+          "dateSelectorValue": null
+        }
+      ]
+    },
+    {
+      "name": "willtest",
+      "value": [
+        {
+          "name": "abc",
+          "type": "discovery",
+          "required": false,
+          "order": -1,
+          "options": [],
+          "command": {
+            "name": "abc",
+            "code": null,
+            "type": "dropdown"
+          },
+          "helpText": null,
+          "showWhen": "",
+          "value": "will",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "abc",
+          "type": "string",
+          "required": false,
+          "order": 0,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "will",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "ki",
+          "type": "integer",
+          "required": false,
+          "order": 1,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "34",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "rt",
+          "type": "text",
+          "required": false,
+          "order": 2,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "good",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "sd",
+          "type": "dropdown",
+          "required": false,
+          "order": 3,
+          "options": [
+            {
+              "name": "a1",
+              "value": "a1"
+            },
+            {
+              "name": "a2",
+              "value": "a2"
+            },
+            {
+              "name": "a3",
+              "value": null
+            },
+            {
+              "name": "a4",
+              "value": null
+            },
+            {
+              "name": "a5",
+              "value": null
+            }
+          ],
+          "command": null,
+          "helpText": "kjy",
+          "showWhen": "",
+          "value": "a2",
+          "dateSelectorValue": null
+        }
+      ]
+    },
+    {
+      "name": "tomtest",
+      "value": [
+        {
+          "name": "abc",
+          "type": "discovery",
+          "required": false,
+          "order": -1,
+          "options": [],
+          "command": {
+            "name": "abc",
+            "code": null,
+            "type": "dropdown"
+          },
+          "helpText": null,
+          "showWhen": "",
+          "value": "tom",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "abc",
+          "type": "string",
+          "required": false,
+          "order": 0,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "tom",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "ki",
+          "type": "integer",
+          "required": false,
+          "order": 1,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "8",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "rt",
+          "type": "text",
+          "required": false,
+          "order": 2,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "excellent",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "sd",
+          "type": "dropdown",
+          "required": false,
+          "order": 3,
+          "options": [
+            {
+              "name": "a1",
+              "value": "a1"
+            },
+            {
+              "name": "a2",
+              "value": "a2"
+            },
+            {
+              "name": "a3",
+              "value": null
+            },
+            {
+              "name": "a4",
+              "value": "a4"
+            },
+            {
+              "name": "a5",
+              "value": null
+            }
+          ],
+          "command": null,
+          "helpText": "kjy",
+          "showWhen": "",
+          "value": "a1",
+          "dateSelectorValue": null
+        }
+      ]
+    },
+    {
+      "name": "dantest",
+      "value": [
+        {
+          "name": "abc",
+          "type": "discovery",
+          "required": false,
+          "order": -1,
+          "options": [],
+          "command": {
+            "name": "abc",
+            "code": null,
+            "type": "dropdown"
+          },
+          "helpText": null,
+          "showWhen": "",
+          "value": "dan",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "abc",
+          "type": "string",
+          "required": false,
+          "order": 0,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "dan",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "ki",
+          "type": "integer",
+          "required": false,
+          "order": 1,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "86",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "rt",
+          "type": "text",
+          "required": false,
+          "order": 2,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "avg",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "sd",
+          "type": "dropdown",
+          "required": false,
+          "order": 3,
+          "options": [
+            {
+              "name": "a1",
+              "value": "a1"
+            },
+            {
+              "name": "a2",
+              "value": "a2"
+            },
+            {
+              "name": "a3",
+              "value": null
+            },
+            {
+              "name": "a4",
+              "value": "a4"
+            },
+            {
+              "name": "a5",
+              "value": "a5"
+            }
+          ],
+          "command": null,
+          "helpText": "kjy",
+          "showWhen": "",
+          "value": "a1",
+          "dateSelectorValue": null
+        }
+      ]
+    },
+    {
+      "name": "marktest",
+      "value": [
+        {
+          "name": "abc",
+          "type": "discovery",
+          "required": false,
+          "order": -1,
+          "options": [],
+          "command": {
+            "name": "abc",
+            "code": null,
+            "type": "dropdown"
+          },
+          "helpText": null,
+          "showWhen": "",
+          "value": "mark",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "abc",
+          "type": "string",
+          "required": false,
+          "order": 0,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "mark",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "ki",
+          "type": "integer",
+          "required": false,
+          "order": 1,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "24",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "rt",
+          "type": "text",
+          "required": false,
+          "order": 2,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "good good",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "sd",
+          "type": "dropdown",
+          "required": false,
+          "order": 3,
+          "options": [
+            {
+              "name": "a1",
+              "value": "a1"
+            },
+            {
+              "name": "a2",
+              "value": "a2"
+            },
+            {
+              "name": "a3",
+              "value": null
+            },
+            {
+              "name": "a4",
+              "value": "a4"
+            },
+            {
+              "name": "a5",
+              "value": "a5"
+            }
+          ],
+          "command": null,
+          "helpText": "kjy",
+          "showWhen": "",
+          "value": "a4",
+          "dateSelectorValue": null
+        }
+      ]
+    },
+    {
+      "name": "sullytest",
+      "value": [
+        {
+          "name": "abc",
+          "type": "discovery",
+          "required": false,
+          "order": -1,
+          "options": [],
+          "command": {
+            "name": "abc",
+            "code": null,
+            "type": "dropdown"
+          },
+          "helpText": null,
+          "showWhen": "",
+          "value": "sully",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "abc",
+          "type": "string",
+          "required": false,
+          "order": 0,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "sully",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "ki",
+          "type": "integer",
+          "required": false,
+          "order": 1,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "23",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "rt",
+          "type": "text",
+          "required": false,
+          "order": 2,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "good",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "sd",
+          "type": "dropdown",
+          "required": false,
+          "order": 3,
+          "options": [
+            {
+              "name": "a1",
+              "value": "a1"
+            },
+            {
+              "name": "a2",
+              "value": "a2"
+            },
+            {
+              "name": "a3",
+              "value": null
+            },
+            {
+              "name": "a4",
+              "value": "a4"
+            },
+            {
+              "name": "a5",
+              "value": "a5"
+            }
+          ],
+          "command": null,
+          "helpText": "kjy",
+          "showWhen": "",
+          "value": "a2",
+          "dateSelectorValue": null
+        }
+      ]
+    },
+    {
+      "name": "miketest",
+      "value": [
+        {
+          "name": "abc",
+          "type": "discovery",
+          "required": false,
+          "order": -1,
+          "options": [],
+          "command": {
+            "name": "abc",
+            "code": null,
+            "type": "dropdown"
+          },
+          "helpText": null,
+          "showWhen": "",
+          "value": "mike",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "abc",
+          "type": "string",
+          "required": false,
+          "order": 0,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "mike",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "ki",
+          "type": "integer",
+          "required": false,
+          "order": 1,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "25",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "rt",
+          "type": "text",
+          "required": false,
+          "order": 2,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "good good",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "sd",
+          "type": "dropdown",
+          "required": false,
+          "order": 3,
+          "options": [
+            {
+              "name": "a1",
+              "value": "a1"
+            },
+            {
+              "name": "a2",
+              "value": "a2"
+            },
+            {
+              "name": "a3",
+              "value": "a3"
+            },
+            {
+              "name": "a4",
+              "value": "a4"
+            },
+            {
+              "name": "a5",
+              "value": "a5"
+            }
+          ],
+          "command": null,
+          "helpText": "kjy",
+          "showWhen": "",
+          "value": "a1",
+          "dateSelectorValue": null
+        }
+      ]
+    },
+    {
+      "name": "stellatest",
+      "value": [
+        {
+          "name": "abc",
+          "type": "discovery",
+          "required": false,
+          "order": -1,
+          "options": [],
+          "command": {
+            "name": "abc",
+            "code": null,
+            "type": "dropdown"
+          },
+          "helpText": null,
+          "showWhen": "",
+          "value": "stella",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "abc",
+          "type": "string",
+          "required": false,
+          "order": 0,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "stella",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "ki",
+          "type": "integer",
+          "required": false,
+          "order": 1,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "33",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "rt",
+          "type": "text",
+          "required": false,
+          "order": 2,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "good good",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "sd",
+          "type": "dropdown",
+          "required": false,
+          "order": 3,
+          "options": [
+            {
+              "name": "a1",
+              "value": "a1"
+            },
+            {
+              "name": "a2",
+              "value": "a2"
+            },
+            {
+              "name": "a3",
+              "value": "a3"
+            },
+            {
+              "name": "a4",
+              "value": "a4"
+            },
+            {
+              "name": "a5",
+              "value": "a5"
+            }
+          ],
+          "command": null,
+          "helpText": "kjy",
+          "showWhen": "",
+          "value": "a4",
+          "dateSelectorValue": null
+        }
+      ]
+    },
+    {
+      "name": "robtest",
+      "value": [
+        {
+          "name": "abc",
+          "type": "discovery",
+          "required": false,
+          "order": -1,
+          "options": [],
+          "command": {
+            "name": "abc",
+            "code": null,
+            "type": "dropdown"
+          },
+          "helpText": null,
+          "showWhen": "",
+          "value": "rob",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "abc",
+          "type": "string",
+          "required": false,
+          "order": 0,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "rob",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "ki",
+          "type": "integer",
+          "required": false,
+          "order": 1,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "55",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "rt",
+          "type": "text",
+          "required": false,
+          "order": 2,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "excellent",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "sd",
+          "type": "dropdown",
+          "required": false,
+          "order": 3,
+          "options": [
+            {
+              "name": "a1",
+              "value": "a1"
+            },
+            {
+              "name": "a2",
+              "value": "a2"
+            },
+            {
+              "name": "a3",
+              "value": "a3"
+            },
+            {
+              "name": "a4",
+              "value": "a4"
+            },
+            {
+              "name": "a5",
+              "value": "a5"
+            }
+          ],
+          "command": null,
+          "helpText": "kjy",
+          "showWhen": "",
+          "value": "a3",
+          "dateSelectorValue": null
+        }
+      ]
+    },
+    {
+      "name": "bobtest",
+      "value": [
+        {
+          "name": "abc",
+          "type": "discovery",
+          "required": false,
+          "order": -1,
+          "options": [],
+          "command": {
+            "name": "abc",
+            "code": null,
+            "type": "dropdown"
+          },
+          "helpText": null,
+          "showWhen": "",
+          "value": "bob",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "abc",
+          "type": "string",
+          "required": false,
+          "order": 0,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "bob",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "ki",
+          "type": "integer",
+          "required": false,
+          "order": 1,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "5",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "rt",
+          "type": "text",
+          "required": false,
+          "order": 2,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "avg",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "sd",
+          "type": "dropdown",
+          "required": false,
+          "order": 3,
+          "options": [
+            {
+              "name": "a1",
+              "value": "a1"
+            },
+            {
+              "name": "a2",
+              "value": "a2"
+            },
+            {
+              "name": "a3",
+              "value": "a3"
+            },
+            {
+              "name": "a4",
+              "value": "a4"
+            },
+            {
+              "name": "a5",
+              "value": "a5"
+            }
+          ],
+          "command": null,
+          "helpText": "kjy",
+          "showWhen": "",
+          "value": "a1",
+          "dateSelectorValue": null
+        }
+      ]
+    },
+    {
+      "name": "test1test",
+      "value": [
+        {
+          "name": "abc",
+          "type": "discovery",
+          "required": false,
+          "order": -1,
+          "options": [],
+          "command": {
+            "name": "abc",
+            "code": null,
+            "type": "dropdown"
+          },
+          "helpText": null,
+          "showWhen": "",
+          "value": "test1",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "abc",
+          "type": "string",
+          "required": false,
+          "order": 0,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "test1",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "ki",
+          "type": "integer",
+          "required": false,
+          "order": 1,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "5",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "rt",
+          "type": "text",
+          "required": false,
+          "order": 2,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "excellent",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "sd",
+          "type": "dropdown",
+          "required": false,
+          "order": 3,
+          "options": [
+            {
+              "name": "a1",
+              "value": "a1"
+            },
+            {
+              "name": "a2",
+              "value": "a2"
+            },
+            {
+              "name": "a3",
+              "value": "a3"
+            },
+            {
+              "name": "a4",
+              "value": "a4"
+            },
+            {
+              "name": "a5",
+              "value": "a5"
+            }
+          ],
+          "command": null,
+          "helpText": "kjy",
+          "showWhen": "",
+          "value": "a1",
+          "dateSelectorValue": null
+        }
+      ]
+    },
+    {
+      "name": "test2test",
+      "value": [
+        {
+          "name": "abc",
+          "type": "discovery",
+          "required": false,
+          "order": -1,
+          "options": [],
+          "command": {
+            "name": "abc",
+            "code": null,
+            "type": "dropdown"
+          },
+          "helpText": null,
+          "showWhen": "",
+          "value": "test2",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "abc",
+          "type": "string",
+          "required": false,
+          "order": 0,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "test2",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "ki",
+          "type": "integer",
+          "required": false,
+          "order": 1,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "52",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "rt",
+          "type": "text",
+          "required": false,
+          "order": 2,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "excellent2",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "sd",
+          "type": "dropdown",
+          "required": false,
+          "order": 3,
+          "options": [
+            {
+              "name": "a1",
+              "value": "a1"
+            },
+            {
+              "name": "a2",
+              "value": "a2"
+            },
+            {
+              "name": "a3",
+              "value": "a3"
+            },
+            {
+              "name": "a4",
+              "value": "a4"
+            },
+            {
+              "name": "a5",
+              "value": "a5"
+            }
+          ],
+          "command": null,
+          "helpText": "kjy",
+          "showWhen": "",
+          "value": "a2",
+          "dateSelectorValue": null
+        }
+      ]
+    },
+    {
+      "name": "nikita01",
+      "value": [
+        {
+          "name": "abc",
+          "type": "discovery",
+          "required": false,
+          "order": -1,
+          "options": [],
+          "command": {
+            "name": "abc",
+            "code": null,
+            "type": "dropdown"
+          },
+          "helpText": null,
+          "showWhen": "",
+          "value": "dan",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "abc",
+          "type": "string",
+          "required": false,
+          "order": 0,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "dan",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "ki",
+          "type": "integer",
+          "required": false,
+          "order": 1,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "86",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "rt",
+          "type": "text",
+          "required": false,
+          "order": 2,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "avg",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "sd",
+          "type": "dropdown",
+          "required": false,
+          "order": 3,
+          "options": [
+            {
+              "name": "a1",
+              "value": "a1"
+            },
+            {
+              "name": "a2",
+              "value": "a2"
+            },
+            {
+              "name": "a3",
+              "value": "a3"
+            },
+            {
+              "name": "a4",
+              "value": "a4"
+            },
+            {
+              "name": "a5",
+              "value": "a5"
+            }
+          ],
+          "command": null,
+          "helpText": "kjy",
+          "showWhen": "",
+          "value": "a4",
+          "dateSelectorValue": null
+        }
+      ]
+    },
+    {
+      "name": "tomtest",
+      "value": [
+        {
+          "name": "abc",
+          "type": "discovery",
+          "required": false,
+          "order": -1,
+          "options": [],
+          "command": {
+            "name": "abc",
+            "code": null,
+            "type": "dropdown"
+          },
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "abc",
+          "type": "string",
+          "required": false,
+          "order": 0,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "ki",
+          "type": "integer",
+          "required": false,
+          "order": 1,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "rt",
+          "type": "text",
+          "required": false,
+          "order": 2,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "sd",
+          "type": "dropdown",
+          "required": false,
+          "order": 3,
+          "options": [
+            {
+              "name": "a1",
+              "value": "a1"
+            },
+            {
+              "name": "a2",
+              "value": "a2"
+            },
+            {
+              "name": "a3",
+              "value": "a3"
+            },
+            {
+              "name": "a4",
+              "value": "a4"
+            },
+            {
+              "name": "a5",
+              "value": "a5"
+            }
+          ],
+          "command": null,
+          "helpText": "kjy",
+          "showWhen": "",
+          "value": "a1",
+          "dateSelectorValue": null
+        }
+      ]
+    },
+    {
+      "name": "bobtest",
+      "value": [
+        {
+          "name": "abc",
+          "type": "discovery",
+          "required": false,
+          "order": -1,
+          "options": [],
+          "command": {
+            "name": "abc",
+            "code": null,
+            "type": "dropdown"
+          },
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "abc",
+          "type": "string",
+          "required": false,
+          "order": 0,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "ki",
+          "type": "integer",
+          "required": false,
+          "order": 1,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "rt",
+          "type": "text",
+          "required": false,
+          "order": 2,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "sd",
+          "type": "dropdown",
+          "required": false,
+          "order": 3,
+          "options": [
+            {
+              "name": "a1",
+              "value": "a1"
+            },
+            {
+              "name": "a2",
+              "value": "a2"
+            },
+            {
+              "name": "a3",
+              "value": "a3"
+            },
+            {
+              "name": "a4",
+              "value": "a4"
+            },
+            {
+              "name": "a5",
+              "value": "a5"
+            }
+          ],
+          "command": null,
+          "helpText": "kjy",
+          "showWhen": "",
+          "value": "a1",
+          "dateSelectorValue": null
+        }
+      ]
+    },
+    {
+      "name": "tp1",
+      "value": [
+        {
+          "name": "abc",
+          "type": "discovery",
+          "required": false,
+          "order": -1,
+          "options": [],
+          "command": {
+            "name": "abc",
+            "code": null,
+            "type": "dropdown"
+          },
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "abc",
+          "type": "string",
+          "required": false,
+          "order": 0,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "ki",
+          "type": "integer",
+          "required": false,
+          "order": 1,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "rt",
+          "type": "text",
+          "required": false,
+          "order": 2,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "sd",
+          "type": "dropdown",
+          "required": false,
+          "order": 3,
+          "options": [
+            {
+              "name": "a1",
+              "value": "a1"
+            },
+            {
+              "name": "a2",
+              "value": "a2"
+            },
+            {
+              "name": "a3",
+              "value": "a3"
+            },
+            {
+              "name": "a4",
+              "value": "a4"
+            },
+            {
+              "name": "a5",
+              "value": "a5"
+            }
+          ],
+          "command": null,
+          "helpText": "kjy",
+          "showWhen": "",
+          "value": "a1",
+          "dateSelectorValue": null
+        }
+      ]
+    },
+    {
+      "name": "willtest",
+      "value": [
+        {
+          "name": "abc",
+          "type": "discovery",
+          "required": false,
+          "order": -1,
+          "options": [],
+          "command": {
+            "name": "abc",
+            "code": null,
+            "type": "dropdown"
+          },
+          "helpText": null,
+          "showWhen": "",
+          "value": "will",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "abc",
+          "type": "string",
+          "required": false,
+          "order": 0,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "will",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "ki",
+          "type": "integer",
+          "required": false,
+          "order": 1,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "34",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "rt",
+          "type": "text",
+          "required": false,
+          "order": 2,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "good",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "sd",
+          "type": "dropdown",
+          "required": false,
+          "order": 3,
+          "options": [
+            {
+              "name": "a1",
+              "value": "a1"
+            },
+            {
+              "name": "a2",
+              "value": "a2"
+            },
+            {
+              "name": "a3",
+              "value": "a3"
+            },
+            {
+              "name": "a4",
+              "value": "a4"
+            },
+            {
+              "name": "a5",
+              "value": "a5"
+            }
+          ],
+          "command": null,
+          "helpText": "kjy",
+          "showWhen": "",
+          "value": "a1",
+          "dateSelectorValue": null
+        }
+      ]
+    },
+    {
+      "name": "dantest",
+      "value": [
+        {
+          "name": "abc",
+          "type": "discovery",
+          "required": false,
+          "order": -1,
+          "options": [],
+          "command": {
+            "name": "abc",
+            "code": null,
+            "type": "dropdown"
+          },
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "abc",
+          "type": "string",
+          "required": false,
+          "order": 0,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "ki",
+          "type": "integer",
+          "required": false,
+          "order": 1,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "rt",
+          "type": "text",
+          "required": false,
+          "order": 2,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "sd",
+          "type": "dropdown",
+          "required": false,
+          "order": 3,
+          "options": [
+            {
+              "name": "a1",
+              "value": "a1"
+            },
+            {
+              "name": "a2",
+              "value": "a2"
+            },
+            {
+              "name": "a3",
+              "value": "a3"
+            },
+            {
+              "name": "a4",
+              "value": "a4"
+            },
+            {
+              "name": "a5",
+              "value": "a5"
+            }
+          ],
+          "command": null,
+          "helpText": "kjy",
+          "showWhen": "",
+          "value": "a1",
+          "dateSelectorValue": null
+        }
+      ]
+    },
+    {
+      "name": "tp2",
+      "value": [
+        {
+          "name": "abc",
+          "type": "discovery",
+          "required": false,
+          "order": -1,
+          "options": [],
+          "command": {
+            "name": "abc",
+            "code": null,
+            "type": "dropdown"
+          },
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "abc",
+          "type": "string",
+          "required": false,
+          "order": 0,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "ki",
+          "type": "integer",
+          "required": false,
+          "order": 1,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "rt",
+          "type": "text",
+          "required": false,
+          "order": 2,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "sd",
+          "type": "dropdown",
+          "required": false,
+          "order": 3,
+          "options": [
+            {
+              "name": "a1",
+              "value": "a1"
+            },
+            {
+              "name": "a2",
+              "value": "a2"
+            },
+            {
+              "name": "a3",
+              "value": "a3"
+            },
+            {
+              "name": "a4",
+              "value": "a4"
+            },
+            {
+              "name": "a5",
+              "value": "a5"
+            }
+          ],
+          "command": null,
+          "helpText": "kjy",
+          "showWhen": "",
+          "value": "a1",
+          "dateSelectorValue": null
+        }
+      ]
+    },
+    {
+      "name": "tp2",
+      "value": [
+        {
+          "name": "abc",
+          "type": "discovery",
+          "required": false,
+          "order": -1,
+          "options": [],
+          "command": {
+            "name": "abc",
+            "code": null,
+            "type": "dropdown"
+          },
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "abc",
+          "type": "string",
+          "required": false,
+          "order": 0,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "ki",
+          "type": "integer",
+          "required": false,
+          "order": 1,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "rt",
+          "type": "text",
+          "required": false,
+          "order": 2,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "sd",
+          "type": "dropdown",
+          "required": false,
+          "order": 3,
+          "options": [
+            {
+              "name": "a1",
+              "value": "a1"
+            },
+            {
+              "name": "a2",
+              "value": "a2"
+            },
+            {
+              "name": "a3",
+              "value": "a3"
+            },
+            {
+              "name": "a4",
+              "value": "a4"
+            },
+            {
+              "name": "a5",
+              "value": "a5"
+            }
+          ],
+          "command": null,
+          "helpText": "kjy",
+          "showWhen": "",
+          "value": "a1",
+          "dateSelectorValue": null
+        }
+      ]
+    },
+    {
+      "name": "tp2",
+      "value": [
+        {
+          "name": "abc",
+          "type": "discovery",
+          "required": false,
+          "order": -1,
+          "options": [],
+          "command": {
+            "name": "abc",
+            "code": null,
+            "type": "dropdown"
+          },
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "abc",
+          "type": "string",
+          "required": false,
+          "order": 0,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "ki",
+          "type": "integer",
+          "required": false,
+          "order": 1,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "rt",
+          "type": "text",
+          "required": false,
+          "order": 2,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "sd",
+          "type": "dropdown",
+          "required": false,
+          "order": 3,
+          "options": [
+            {
+              "name": "a1",
+              "value": "a1"
+            },
+            {
+              "name": "a2",
+              "value": "a2"
+            },
+            {
+              "name": "a3",
+              "value": "a3"
+            },
+            {
+              "name": "a4",
+              "value": "a4"
+            },
+            {
+              "name": "a5",
+              "value": "a5"
+            }
+          ],
+          "command": null,
+          "helpText": "kjy",
+          "showWhen": "",
+          "value": "a1",
+          "dateSelectorValue": null
+        }
+      ]
+    },
+    {
+      "name": "marktest",
+      "value": [
+        {
+          "name": "abc",
+          "type": "discovery",
+          "required": false,
+          "order": -1,
+          "options": [],
+          "command": {
+            "name": "abc",
+            "code": null,
+            "type": "dropdown"
+          },
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "abc",
+          "type": "string",
+          "required": false,
+          "order": 0,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "ki",
+          "type": "integer",
+          "required": false,
+          "order": 1,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "rt",
+          "type": "text",
+          "required": false,
+          "order": 2,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "sd",
+          "type": "dropdown",
+          "required": false,
+          "order": 3,
+          "options": [
+            {
+              "name": "a1",
+              "value": "a1"
+            },
+            {
+              "name": "a2",
+              "value": "a2"
+            },
+            {
+              "name": "a3",
+              "value": "a3"
+            },
+            {
+              "name": "a4",
+              "value": "a4"
+            },
+            {
+              "name": "a5",
+              "value": "a5"
+            }
+          ],
+          "command": null,
+          "helpText": "kjy",
+          "showWhen": "",
+          "value": "a1",
+          "dateSelectorValue": null
+        }
+      ]
+    },
+    {
+      "name": "robtest",
+      "value": []
+    },
+    {
+      "name": "robtest",
+      "value": []
+    },
+    {
+      "name": "robtest",
+      "value": []
+    },
+    {
+      "name": "robtest",
+      "value": []
+    },
+    {
+      "name": "robtest",
+      "value": []
+    },
+    {
+      "name": "robtest",
+      "value": []
+    },
+    {
+      "name": "robtest",
+      "value": []
+    },
+    {
+      "name": "robtest",
+      "value": []
+    },
+    {
+      "name": "robtest",
+      "value": []
+    },
+    {
+      "name": "robtest",
+      "value": []
+    },
+    {
+      "name": "robtest",
+      "value": []
+    },
+    {
+      "name": "robtest",
+      "value": []
+    },
+    {
+      "name": "robtest",
+      "value": []
+    },
+    {
+      "name": "robtest",
+      "value": []
+    },
+    {
+      "name": "robtest",
+      "value": []
+    },
+    {
+      "name": "robtest",
+      "value": []
+    },
+    {
+      "name": "robtest",
+      "value": []
+    },
+    {
+      "name": "robtest",
+      "value": []
+    },
+    {
+      "name": "robtest",
+      "value": []
+    },
+    {
+      "name": "robtest",
+      "value": []
+    },
+    {
+      "name": "robtest",
+      "value": []
+    },
+    {
+      "name": "robtest",
+      "value": [
+        {
+          "name": "abc",
+          "type": "discovery",
+          "required": false,
+          "order": -1,
+          "options": [],
+          "command": {
+            "name": "abc",
+            "code": null,
+            "type": "dropdown"
+          },
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "abc",
+          "type": "string",
+          "required": false,
+          "order": 0,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "ki",
+          "type": "integer",
+          "required": false,
+          "order": 1,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "rt",
+          "type": "text",
+          "required": false,
+          "order": 2,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "sd",
+          "type": "dropdown",
+          "required": false,
+          "order": 3,
+          "options": [
+            {
+              "name": "a1",
+              "value": "a1"
+            },
+            {
+              "name": "a2",
+              "value": "a2"
+            },
+            {
+              "name": "a3",
+              "value": "a3"
+            },
+            {
+              "name": "a4",
+              "value": "a4"
+            },
+            {
+              "name": "a5",
+              "value": "a5"
+            }
+          ],
+          "command": null,
+          "helpText": "kjy",
+          "showWhen": "",
+          "value": "a1",
+          "dateSelectorValue": null
+        }
+      ]
+    },
+    {
+      "name": "bobtest",
+      "value": [
+        {
+          "name": "abc",
+          "type": "discovery",
+          "required": false,
+          "order": -1,
+          "options": [],
+          "command": {
+            "name": "abc",
+            "code": null,
+            "type": "dropdown"
+          },
+          "helpText": null,
+          "showWhen": "",
+          "value": "sasasas",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "abc",
+          "type": "string",
+          "required": false,
+          "order": 0,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": "sasasas",
+          "dateSelectorValue": null
+        },
+        {
+          "name": "ki",
+          "type": "integer",
+          "required": false,
+          "order": 1,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "rt",
+          "type": "text",
+          "required": false,
+          "order": 2,
+          "options": [],
+          "command": null,
+          "helpText": null,
+          "showWhen": "",
+          "value": null,
+          "dateSelectorValue": null
+        },
+        {
+          "name": "sd",
+          "type": "dropdown",
+          "required": false,
+          "order": 3,
+          "options": [
+            {
+              "name": "a1",
+              "value": "a1"
+            },
+            {
+              "name": "a2",
+              "value": "a2"
+            },
+            {
+              "name": "a3",
+              "value": "a3"
+            },
+            {
+              "name": "a4",
+              "value": "a4"
+            },
+            {
+              "name": "a5",
+              "value": "a5"
+            }
+          ],
+          "command": null,
+          "helpText": "kjy",
+          "showWhen": "",
+          "value": "a1",
+          "dateSelectorValue": null
+        }
+      ]
+    }
+  ],
+  "visible": true
+}
